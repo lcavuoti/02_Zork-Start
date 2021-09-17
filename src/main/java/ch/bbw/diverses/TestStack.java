@@ -9,6 +9,7 @@ public class TestStack {
 		Stack<String> stack = new Stack<>();
 		
 		stack.push("Hello");
+		stack.push("Gugus");
 		stack.push("World");
 		stack.push("how are you");
 		
